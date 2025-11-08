@@ -1,6 +1,6 @@
 package com.scaler.productservicecapstoneapplication.dtos;
 
-import com.scaler.productservicejan31capstone.models.Product;
+import com.scaler.productservicecapstoneapplication.models.Product;
 import lombok.Getter;
 import lombok.Setter;
 
